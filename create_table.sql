@@ -1,4 +1,4 @@
-CREATE TABLE Strings_26
+CREATE TABLE strings_26
 ( stroka VARCHAR2(4000)
 );
 INSERT INTO Strings_26
